@@ -1,6 +1,6 @@
 [submodule "1vs1"]
 	path = 1vs1
-	url = https://github.com/kasymovga/1vs1
+	url = https://github.com/wildminder/rexuiz-1vs1
 	branch = master
 [submodule "DarkPlacesRM"]
 	path = DarkPlacesRM

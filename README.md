@@ -2,11 +2,7 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <!-- <a href="https://github.com/wildminder/rexuiz-neo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
 
 <h1 align="center">Rexuiz Neo Build System</h1>
 
@@ -17,7 +13,11 @@
     &middot;
     <a href="https://github.com/wildminder/rexuiz-neo/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
+<br />
+<img src="https://dashboard.snapcraft.io/site_media/appmedia/2021/08/rexuiz20210815103632-00.jpg" alt="Logo">
+      
 </div>
+
 
 <!-- PROJECT SHIELDS -->
 <div align="center">

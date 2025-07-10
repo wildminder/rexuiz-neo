@@ -1,16 +1,19 @@
 [submodule "1vs1"]
-	path = 1vs1
+	path = components/1vs1
 	url = https://github.com/wildminder/rexuiz-1vs1
 	branch = master
 [submodule "DarkPlacesRM"]
-	path = DarkPlacesRM
+	path = components/DarkPlacesRM
 	url = https://github.com/wildminder/DarkPlacesRM
+	branch = master
 [submodule "rexdlc"]
-	path = rexdlc
+	path = assets/rexdlc
 	url = https://github.com/wildminder/rexuiz-rexdlc
+	branch = master
 [submodule "gmqcc"]
-	path = gmqcc
+	path = components/gmqcc
 	url = https://github.com/wildminder/gmqcc
+	branch = main
 [submodule "flrexuizlauncher"]
-	path = flrexuizlauncher
+	path = components/flrexuizlauncher
 	url = https://github.com/kasymovga/flrexuizlauncher
